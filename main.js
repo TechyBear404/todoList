@@ -113,6 +113,7 @@ document
     // console.log(event);
     const deleteList = document.querySelectorAll("#todoList li input:checked");
     const revoveList = document.querySelector("#removeList");
+    removeList.innerHTML = "";
 
     deleteList.forEach((todo) => {
       const id = todo.parentElement.id;
