@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Aller faire les course",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Promenber le chien",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Nettoyer le jardin",
+      "completed": false
+    }
+  ]
+}
